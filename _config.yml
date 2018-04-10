@@ -90,12 +90,3 @@ deploy:
 
 math:
   engine: 'mathjax' # or 'katex'
-  mathjax:
-    src:
-    config:
-      # MathJax config
-  katex:
-    css:
-    js: # not used
-    config:
-      # KaTeX config
