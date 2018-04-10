@@ -25,7 +25,7 @@ PhD Candidate
 
 ## Cool Stuffs
 
-* [Deep Learning Monitor](https://deeplearn.org)
+* [Deep Learning Monitor (deeplearn.org)](https://deeplearn.org)
 * [Visualization of optimization methods (Chrome-only)](static/visualize_optimization.html)
 * [Visualization of Monte Carlo methods (Chrome-only)](static/markov_chain_monte_carlo.html)
 
