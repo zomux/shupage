@@ -16,7 +16,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
 
-$$ a = 3 $$
+$ a = 3 $
 
 ``` bash
 $ hexo server
