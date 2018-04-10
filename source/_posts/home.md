@@ -25,11 +25,22 @@ PhD Candidate
 
 ## Cool Stuffs
 
+* [Deep Learning Monitor](https://deeplearn.org)
 * [Visualization of optimization methods (Chrome-only)](static/visualize_optimization.html)
 * [Visualization of Monte Carlo methods (Chrome-only)](static/markov_chain_monte_carlo.html)
 
 ## My Papers
 
+- 朱中元, 中山英樹, 「深層コード学習による単語分散表現の圧縮」, 言語処理学会 2018
+    - Best Paper / 最優秀賞
+    - [PDF](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C6-1.pdf)
+    - [code](https://github.com/zomux/neuralcompressor)
+- Raphael Shu, Hideki Nakayama, "Compressing Word Embeddings via Deep Compositional Code Learning", ICLR 2018
+    - [PDF](https://openreview.net/pdf?id=BJRZzFlRb)
+    -  [code](https://github.com/zomux/neuralcompressor)
+- Raphael Shu, Hideki Nakayama, "An Empirical Study of Adequate Vision Span for Attention-Based Neural Machine Translation", ACL Workshop on Neural Machine Translation, 2017
+    - **Outstanding Paper Award**
+    - [http://aclweb.org/anthology/W/W17/W17-3201.pdf](http://aclweb.org/anthology/W/W17/W17-3201.pdf)
 - Evaluating Neural Machine Translation in English-Japanese Task
 	- Second place in human evaluation, third place in JPO accuracy test
 		- [http://www.aclweb.org/anthology/W/W15/W15-5007.pdf](http://www.aclweb.org/anthology/W/W15/W15-5007.pdf)
@@ -48,6 +59,9 @@ PhD Candidate
 
 ## My Codes
 
+- neuralcompressor ![GitHub stars](https://img.shields.io/github/stars/zomux/neuralcompressor.svg)
+    - Compress word embeddings
+    - https://github.com/zomux/neuralcompressor
 - deepy ![GitHub stars](https://img.shields.io/github/stars/zomux/deepy.svg)
  - Highly extensible deep learning framework based on Theano 
  - [https://github.com/zomux/deepy](https://github.com/zomux/deepy)
