@@ -91,4 +91,4 @@ deploy:
 math:
   engine: 'mathjax' # or 'katex'
   mathjax:
-      src: "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"
+      src: "//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML"
