@@ -20,7 +20,7 @@ PhD Candidate
     * Conversation Models
     * Question Answering
 * Deep Learning
-    * Learning Discrete Latent Structures ($\argmax_{\theta} \mathrm{E}_{z \sim p(z|x)}[p(y|z)]$)
+    * Learning Discrete Latent Structures 
     * Generative Models
 
 ## Cool Stuffs
