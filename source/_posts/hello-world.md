@@ -2,40 +2,23 @@
 title: Raphael Shu
 top: 1
 ---
+
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## All things you want to know about me
 
-### Create a new post
+### Research Interests
 
-``` python
-for a in range(3)
-```
+* Natural Language Processing
+    * Machine Translation
+    * Conversation Models
+* Deep Learning
+    * Learning Discrete Latent Structures
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### Cool Stuffs
 
-### Run server
+### My Papers
 
-$$ a = 3 $$
+### My Codes
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+### My Experiences
