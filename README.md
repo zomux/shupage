@@ -9,6 +9,7 @@ https://github.com/ahonn/hexo-theme-even
 - https://github.com/hexojs/hexo-math
 - npm install hexo-deployer-git --save
 - npm install hexo-renderer-scss --save
+- npm install hexo-generator-index-plus --save
 
 
 ## Crontab
