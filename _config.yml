@@ -81,9 +81,9 @@ theme: new_even
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:zomux/shupage.git
-  branch: master
+  type:
+  repo:
+  branch:
 
 
 # math
@@ -91,11 +91,11 @@ deploy:
 math:
   engine: 'mathjax' # or 'katex'
   mathjax:
-    src: custom_mathjax_source
+    src:
     config:
       # MathJax config
   katex:
-    css: custom_css_source
-    js: custom_js_source # not used
+    css:
+    js: # not used
     config:
       # KaTeX config
