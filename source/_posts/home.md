@@ -41,6 +41,9 @@ PhD Candidate
 - Raphael Shu, Hideki Nakayama, "An Empirical Study of Adequate Vision Span for Attention-Based Neural Machine Translation", ACL Workshop on Neural Machine Translation, 2017
     - **Outstanding Paper Award**
     - [http://aclweb.org/anthology/W/W17/W17-3201.pdf](http://aclweb.org/anthology/W/W17/W17-3201.pdf)
+- 朱中元, 中山英樹, 「文脈を考慮したアテンションメカニズムの計算量の削減」, 人工知能大会 2017
+    - Student Paper Award / 学生奨励賞
+    - [PDF](https://kaigi.org/jsai/webprogram/2017/pdf/1085.pdf)
 - Evaluating Neural Machine Translation in English-Japanese Task
 	- Second place in human evaluation, third place in JPO accuracy test
 		- [http://www.aclweb.org/anthology/W/W15/W15-5007.pdf](http://www.aclweb.org/anthology/W/W15/W15-5007.pdf)
