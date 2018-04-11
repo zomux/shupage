@@ -17,8 +17,6 @@ PhD Candidate
 * Natural Language Processing
     * Natural Language Understanding
     * Machine Translation
-    * Conversation Models
-    * Question Answering
 * Deep Learning
     * Learning Discrete Latent Structures 
     * Generative Models
