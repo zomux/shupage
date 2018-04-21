@@ -5,12 +5,10 @@ top: 1
 
 ## My Name and Status
 
-```Go
-Raphael Shu / 朱 中元
-The University of Tokyo
-Nakayama Lab
-PhD Candidate
-```
+|  ![](http://www.nlab.ci.i.u-tokyo.ac.jp/image/face_shu.jpg) | Raphael Shu / 朱 中元 <br/> The University of Tokyo <br/> Nakayama Lab <br/> PhD Candidate|
+|---|:---|
+
+
 
 ## Research Interests
 
