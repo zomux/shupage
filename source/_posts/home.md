@@ -27,7 +27,13 @@ top: 1
 * [Visualization of Monte Carlo methods (Chrome-only)](static/markov_chain_monte_carlo.html)
 
 ## My Papers
-
+- Raphael Shu, Hideki Nakayama and Kyunghyun Cho, "Generating Diverse Translations with Sentence Codes", ACL 2019
+    - [PDF] to be added
+- 朱中元, 中山英樹, 「Generating Syntactically Diverse Translations with Syntactic Codes」, 言語処理学会 2019
+    - Best Paper / 最優秀賞
+　　- [Official Report](https://www.anlp.jp/guide/news/v26n2/index.html#third)
+- Raphael Shu, Hideki Nakayama, "Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation", ACL 2018
+    - [PDF](https://aclweb.org/anthology/papers/P/P18/P18-2054/)
 - 朱中元, 中山英樹, 「深層コード学習による単語分散表現の圧縮」, 言語処理学会 2018
     - Best Paper / 最優秀賞
     - [PDF](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C6-1.pdf)
