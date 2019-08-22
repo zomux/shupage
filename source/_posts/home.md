@@ -29,6 +29,8 @@ top: 1
 ## My Papers
 - Raphael Shu, Hideki Nakayama and Kyunghyun Cho, "Generating Diverse Translations with Sentence Codes", ACL 2019
     - [PDF] to be added
+- Jiali Yao, Raphael Shu, Xinjian Li, Katsutoshi Ohtsuki, Hideki Nakayama. "Enabling Real-time Neural IME with Incremental Vocabulary Selection", NAACL 2019
+    - [PDF] to be added
 - 朱中元, 中山英樹, 「Generating Syntactically Diverse Translations with Syntactic Codes」, 言語処理学会 2019
     - Best Paper / 最優秀賞
 　　- [Official Report](https://www.anlp.jp/guide/news/v26n2/index.html#third)
