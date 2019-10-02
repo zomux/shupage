@@ -31,6 +31,7 @@ top: 1
     - [PDF] to be added
 - Jiali Yao, Raphael Shu, Xinjian Li, Katsutoshi Ohtsuki, Hideki Nakayama. "Enabling Real-time Neural IME with Incremental Vocabulary Selection", NAACL 2019
     - [PDF] to be added
+    - [Code] https://github.com/zomux/tree2code
 - 朱中元, 中山英樹, 「Generating Syntactically Diverse Translations with Syntactic Codes」, 言語処理学会 2019
     - Best Paper / 最優秀賞
 　　- [Official Report](https://www.anlp.jp/guide/news/v26n2/index.html#third)
@@ -67,6 +68,10 @@ top: 1
 
 ## My Codes
 
+- tree2code: Learning Discrete Syntactic Codes for Structural Diverse Translation
+    - https://github.com/zomux/tree2code
+- nmtlab: A simplified framework for neural machine translation
+    - https://github.com/zomux/nmtlab
 - neuralcompressor ![GitHub stars](https://img.shields.io/github/stars/zomux/neuralcompressor.svg)
     - Compress word embeddings
     - https://github.com/zomux/neuralcompressor
