@@ -25,6 +25,7 @@ top: 1
 * [Deep Learning Monitor (deeplearn.org)](https://deeplearn.org)
 * [Visualization of optimization methods (Chrome-only)](static/visualize_optimization.html)
 * [Visualization of Monte Carlo methods (Chrome-only)](static/markov_chain_monte_carlo.html)
+* [NLPer Blog](https://nlper.com)
 
 ## My Papers
 - Raphael Shu, Hideki Nakayama and Kyunghyun Cho, "Generating Diverse Translations with Sentence Codes", ACL 2019
