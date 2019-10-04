@@ -23,8 +23,10 @@ top: 1
 ## Cool Stuffs
 
 * [Deep Learning Monitor (deeplearn.org)](https://deeplearn.org)
-* [tree2code: Learning discrete codes for syntax](https://github.com/zomux/tree2code)
-* [lanmt: Non-autoregressive neural machine translation with latent variables and refinement](https://github.com/zomux/lanmt)
+* [tree2code](https://github.com/zomux/tree2code)
+  * Learning discrete codes for syntax
+* [lanmt](https://github.com/zomux/lanmt)
+  * Non-autoregressive neural machine translation with latent variables and refinement
 * [NLPer Blog](https://nlper.com)
 * [Visualization of optimization methods (Chrome-only)](static/visualize_optimization.html)
 * [Visualization of Monte Carlo methods (Chrome-only)](static/markov_chain_monte_carlo.html)
