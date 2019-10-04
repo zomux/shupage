@@ -17,7 +17,7 @@ top: 1
     * Natural Language Understanding
     * Machine Translation
 * Deep Learning
-    * Learning Discrete Latent Structures 
+    * Learning Discrete Latent Structures
     * Generative Models
 
 ## Cool Stuffs
@@ -30,11 +30,14 @@ top: 1
 * [Visualization of Monte Carlo methods (Chrome-only)](static/markov_chain_monte_carlo.html)
 
 ## My Papers
+- Raphael Shu, Jason Lee, Hideki Nakayama, Kyunghyun Cho, "Latent-Variable Non-Autoregressive Neural Machine Translation with Deterministic Inference using a Delta Posterior", Arxiv abs/1908.07181
+    - [PDF] https://arxiv.org/abs/1908.07181
+    - [Code] https://github.com/zomux/lanmt
 - Raphael Shu, Hideki Nakayama and Kyunghyun Cho, "Generating Diverse Translations with Sentence Codes", ACL 2019
-    - [PDF] to be added
+    - [PDF]  https://www.aclweb.org/anthology/P19-1177/
+    - [Code] https://github.com/zomux/tree2code
 - Jiali Yao, Raphael Shu, Xinjian Li, Katsutoshi Ohtsuki, Hideki Nakayama. "Enabling Real-time Neural IME with Incremental Vocabulary Selection", NAACL 2019
     - [PDF] to be added
-    - [Code] https://github.com/zomux/tree2code
 - 朱中元, 中山英樹, 「Generating Syntactically Diverse Translations with Syntactic Codes」, 言語処理学会 2019
     - Best Paper / 最優秀賞
 　　- [Official Report](https://www.anlp.jp/guide/news/v26n2/index.html#third)
@@ -79,7 +82,7 @@ top: 1
     - Compress word embeddings
     - https://github.com/zomux/neuralcompressor
 - deepy ![GitHub stars](https://img.shields.io/github/stars/zomux/deepy.svg)
- - Highly extensible deep learning framework based on Theano 
+ - Highly extensible deep learning framework based on Theano
  - [https://github.com/zomux/deepy](https://github.com/zomux/deepy)
 - neuralmt
  - Neural machine translation modelling tookit
@@ -105,5 +108,3 @@ top: 1
 ```go
 raphael [at] uaca [dot] com
 ```
-
-
