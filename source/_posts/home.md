@@ -24,7 +24,7 @@ top: 1
 
 * [Deep Learning Monitor (deeplearn.org)](https://deeplearn.org)
 * [tree2code: Learing discrete syntactic codes](https://github.com/zomux/tree2code)
-* [lanmt: Non-autoregressive neural machine translation with latent variables and deterministic inference](https://github.com/zomux/lanmt)
+* [lanmt: Non-autoregressive neural machine translation with latent variables and refinement](https://github.com/zomux/lanmt)
 * [NLPer Blog](https://nlper.com)
 * [Visualization of optimization methods (Chrome-only)](static/visualize_optimization.html)
 * [Visualization of Monte Carlo methods (Chrome-only)](static/markov_chain_monte_carlo.html)
