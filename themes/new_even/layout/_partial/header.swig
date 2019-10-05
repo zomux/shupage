@@ -6,7 +6,7 @@
   {% if theme.menu %}
     <ul id="menu" class="menu">
       {% for name, path in theme.menu %}
-        <li class="menu-item">
+      <!--  <li class="menu-item">
           <a class="menu-item-link" href="{{ url_for(path) }}">
             {% set itemName = __('menu.' + name.toLowerCase()) %}
             {% if itemName.startsWith('menu') %}
@@ -15,7 +15,7 @@
               {{ itemName }}
             {% endif %}
           </a>
-        </li>
+        </li> -->
       {% endfor %}
       <li class="menu-item">
         <a class="menu-item-link" href="https://nlper.com">
