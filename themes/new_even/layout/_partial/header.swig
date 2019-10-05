@@ -17,6 +17,11 @@
           </a>
         </li>
       {% endfor %}
+      <li class="menu-item">
+        <a class="menu-item-link" href="https://nlper.com">
+            NLPer Blog
+        </a>
+      </li>
     </ul>
   {% endif %}
 </nav>
