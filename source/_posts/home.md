@@ -6,7 +6,7 @@ top: 1
 ## My Name and Status
 | | |
 |---|:---|
-|  ![](http://www.nlab.ci.i.u-tokyo.ac.jp/image/face_shu.jpg) | **Raphael Shu / 朱 中元** <br/> The University of Tokyo <br/> Nakayama Lab <br/> PhD Candidate|
+|  ![](http://www.nlab.ci.i.u-tokyo.ac.jp/image/face_shu.jpg) | **Raphael Shu / ZHONGYUAN ZHU / 朱 中元** <br/> The University of Tokyo <br/> Nakayama Lab <br/> PhD Candidate|
 
 
 
